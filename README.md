@@ -1,17 +1,22 @@
 <h1 align="center">Hi 👋, I'm Matheus Schneider Camilo 🇧🇷</h1>
-- 🌱 I’m currently learning **TypeScript, React Native, C, C++ and Qt.**
 
-- 👯 I’m looking to collaborate on **some free software projects.**
+- 💼 I'm currently working at Khomp as a development intern focused on front-end software.
+- 🎓 I'm studying Electronic Engineering at Universidade Federal de Santa Catarina, Florianópolis (2020-2024)
+- 🌱 I’m learning more about TypeScript, React Native, C, C++ and Qt.
+- 👯 I’m looking to collaborate on some free software projects.
+- 💬 Ask me about Linux, Free Software and Electronics.
+- 📫 You can reach me at matheus.schneider.camilo@gmail.com.
 
-- 💬 Ask me about **Linux, Free Software and Electronics.**
-
-- 📫 How to reach me **matheus.schneider.camilo@gmail.com**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/mthschn" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="mthschn" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/matheuschn" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="matheuschn" height="30" width="40" /></a>
+<h2 align="center">Tech Stack</h2>
+<p align="center">
+  <a href="https://www.javascript.com"><img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" /></a>
+  <a href="https://www.typescriptlang.org"><img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" /></a>
+  <a href="https://reactnative.dev"><img src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" /></a>
+  <a href="https://archlinux.org"><img src="https://img.shields.io/badge/Arch_Linux-1793D1?style=for-the-badge&logo=arch-linux&logoColor=white" /></a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://developer.android.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://reactnative.dev/" target="_blank"> <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> </p>
+<h2 align="center">Social Media</h2>
+<p align="center">
+  <a href="https://twitter.com/mthschn"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/matheuschn/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+</p>
