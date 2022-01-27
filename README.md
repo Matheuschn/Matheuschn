@@ -2,7 +2,7 @@
 
 - 💼 I'm currently working at Khomp as a development intern focused on front-end software.
 - 🎓 I'm studying Electronic Engineering at Universidade Federal de Santa Catarina, Florianópolis (2020-2024)
-- 🌱 I’m learning more about TypeScript, React Native, C, C++ and Qt.
+- 🌱 I’m learning more about TypeScript, React Native, C and GTK.
 - 👯 I’m looking to collaborate on some free software projects.
 - 💬 Ask me about Linux, Free Software and Electronics.
 - 📫 You can reach me at matheus.schneider.camilo@gmail.com.
